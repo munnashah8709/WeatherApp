@@ -1,0 +1,48 @@
+.details {
+    margin: 10px;
+
+}
+
+#danger {
+    background-color: lightcoral;
+    margin-top: 20px;
+    width: auto;
+}
+
+#display {
+    background-color: aquamarine;
+    border-radius: 20px;
+    border: 2px solid;
+}
+
+
+* {
+    font-size: large;
+    font-weight: bolder;
+}
+
+#hist {
+    margin-top: 60px;
+    background-color: lightblue;
+
+}
+
+#old-search {
+    color: darkgreen;
+}
+.card12{
+    margin-top: 20px;
+    border-style: dotted;
+    border-radius: 5px;
+    padding: 5px;
+    justify-content: center;
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+}
+.card2{
+    height: auto;
+    background-color: white;
+    margin: 7px;
+    border-radius: 13px;
+}
